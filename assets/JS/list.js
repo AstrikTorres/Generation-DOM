@@ -28,7 +28,6 @@ btnPeople.addEventListener('click', () => {
     displayList(listPeople);
 });
 
-
 /* btnAnimals.addEventListener('click', function() {
     listAnimals.forEach(animal => {
         const li = document.createElement('li');
